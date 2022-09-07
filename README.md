@@ -22,8 +22,6 @@ Skills: Pandas / Keras / Numpy / Matplotlib/ Seaborn/ OpenCV/ Scipy/ Image Segme
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rintu46&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rintu46)  
-
 ![GitHub metrics](https://metrics.lecoq.io/rintu46)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rintu46)  
